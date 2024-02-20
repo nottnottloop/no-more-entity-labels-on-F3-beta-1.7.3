@@ -1,8 +1,8 @@
 # No More Entity Labels on F3 Beta 1.7.3
-This mod removes the X-ray that occurs when pressing F3 that labels entities with a number above their heads.
+This mod removes the entity labels that appear when pressing F3 that labels entities with a number above their heads. These labels go through walls and can be used as an xray exploit, even though there are other genuine reasons to use F3 in-game.
 
 ## Visual example
-Using this mod, the number 57270 doesn't appear above entities when pressing F3
+Using this mod, the number for example 57270 doesn't appear above entities when pressing F3
 ![](./sheep.png)
 
 These numbers can be used as an x-ray/exploit to see caves by seeing numbers below ground. As you can see, there are entity numbers running around underground:
