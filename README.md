@@ -12,3 +12,6 @@ These numbers can be used as an x-ray/exploit to see caves by seeing the numbers
 
 ## Why use this mod
 You might want to use the F3 menu to get your Y-axis height, your frame rate or to check the light level of the block you are standing on. Now you can do so without accidentally cheating and seeing where all the mobs are.
+
+## If using Optifine
+You don't actually need this mod. In settings, under Other, turn Fast Debug Info on. This will also hide the entity labels, and give a less cluttered debug view.
