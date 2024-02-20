@@ -1,5 +1,5 @@
 # No More Entity Labels on F3 Beta 1.7.3
-This mod removes the entity labels that appear when pressing F3 that labels entities, for example monsters spawning in caves, with a number above their heads. These labels go through walls and can be used as an xray exploit, even though there are other genuine reasons to use F3 in-game.
+This mod removes the entity labels that appear when pressing F3 that labels entities, for example monsters spawning in caves, with a number above their heads. These labels go through walls and can be used as an x-ray exploit, even though there are other genuine reasons to use F3 in-game.
 
 Supports beta 1.7-1.7.3
 
