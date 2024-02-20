@@ -1,1 +1,12 @@
-# no-more-entity-labels-on-F3-beta-1.7.3
+# No More Entity Labels on F3 Beta 1.7.3
+This mod removes the X-ray that occurs when pressing F3 that labels entities with a number above their heads.
+
+## Visual example
+Using this mod, the number 57270 doesn't appear above entities when pressing F3
+![](./sheep.png)
+
+These numbers can be used as an x-ray/exploit to see caves by seeing numbers below ground. As you can see, there are entity numbers running around underground:
+![](./xray2.png)
+
+## Why use this mod
+You might want to use the F3 menu to get your Y-axis height, your frame rate or to check the light level of the block you are standing on. Now you can do so without accidentally cheating and seeing where all the mobs are.
